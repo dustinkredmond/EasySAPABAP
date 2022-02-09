@@ -6,3 +6,4 @@ All changes to this repository are committed via [abapGit](https://github.com/ab
 
 - To navigate this repository you can refer to the Easy SAP ABAP YouTube video that brought you here.
 - Alternatively, you can download abapGit, clone this repository, then explore the code at your leisure.
+- All code examples are available under the [/src](./src) directory. Examples are sorted into their own development package (directory) within the repo.
